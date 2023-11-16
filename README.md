@@ -6,3 +6,4 @@ The Access Map is a tool that visualizes a handicapped person's perspective by w
 
 You can find more information and the inspiration for this project on <a href="http://arduina.github.io/access_map/">Berlin's version</a> of this map (rather, this map is a version of the Berlin map). Find a How To there too, for making this yourself! The text above is also taken from that repository.
 
+The map is from <a href="https://www.vrt-info.de/service/downloads">here</a>.
