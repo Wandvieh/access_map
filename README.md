@@ -1,6 +1,6 @@
-<h4>What is the Access-Map?</h4>
-![Accessibility Map](https://github.com/user-attachments/assets/3e41a6ba-260d-4759-8d41-494f5a7e7f8a)
+![Map](https://github.com/user-attachments/assets/e5cb5053-0a1f-4f9c-b1b8-8923cc24ce7e)
 
+<h4>What is the Access-Map?</h4>
 The map can be interacted with [here](https://wandvieh.github.io/access_map/).
 
 The Access Map is a tool that visualizes a handicapped person's perspective by wiping out all the stations that are not accessible. This is a redeployment of Arduina's project from Berlin. The map was originally created by the <a href="http://mappable.info">Mappable</a> initiative from Hamburg.
